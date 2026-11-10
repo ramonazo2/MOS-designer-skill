@@ -4,9 +4,9 @@
 
 This catalog contains approved reference assets used by the Mosaic Internal Communications Copilot Agent.
 
-The agent should use these assets as visual references when recommending layouts, generating creative briefs, selecting templates, or producing design guidance.
+Use these assets for reference discovery and composition guidance when recommending layouts, generating creative briefs, selecting templates, or producing design guidance.
 
-This catalog supplements the Mosaic Brand Guidelines and does not override typography, color, logo, or branding requirements defined in the core brand skill.
+References in this catalog provide composition guidance only. The catalog does not override the selected Mosaic Brand Kit or Mosaic Brand Foundation.
 
 ---
 
@@ -14,303 +14,218 @@ This catalog supplements the Mosaic Brand Guidelines and does not override typog
 
 ## Logo Tab
 
-### Asset
-`/brand-components/MOSAIC_LOGO_TAB_RGB.svg`
-
-### Type
-Required Brand Asset
-
-### Usage
-Use on every Mosaic communication piece.
-
-### Placement
-- Top-left corner
-- Hanging tab configuration
-- 10–15% of canvas width
-- Preserve original artwork
-
-### Notes
-Never redraw, recolor, distort, or recreate the logo.
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/brand-components/MOSAIC_LOGO_TAB_RGB.svg)
+- **Category:** Required Brand Asset
+- **Best For:** Every Mosaic communication piece
+- **Composition Characteristics:**
+  - Top-left corner placement
+  - Hanging tab configuration
+  - 10–15% of canvas width
+  - Preserve the original artwork
+  - Never redraw, recolor, distort, or recreate the logo
 
 ---
 
-# Social Media References
+# Social Ads — 1:1
 
 ## Social Layout A
 
-### Asset
-`/social-ads/photo-led/2-panel-layout-heading-on-top+3-images.jpg`
-
-### Category
-Photo-Led Social Post
-
-### Best For
-- Employee spotlights
-- Event recaps
-- Community investment stories
-- Volunteer initiatives
-
-### Layout Characteristics
-- Headline area on top
-- Multiple supporting images
-- Storytelling format
-- Medium copy volume
-
-### Panel Type
-Panel 1: Split Composition
-
----
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/social-ads/photo-led/2-panel-layout-heading-on-top%2B3-images.jpg)
+- **Category:** Photo-Led Social Post
+- **Format or Dimensions:** 1:1 social ad
+- **Best For:**
+  - Employee spotlights
+  - Event recaps
+  - Community investment stories
+  - Volunteer initiatives
+- **Composition Characteristics:**
+  - Headline area on top
+  - Multiple supporting images
+  - Storytelling format
+  - Medium copy volume
+  - Panel 1: Split Composition
 
 ## Social Layout B
 
-### Asset
-`/social-ads/photo-led/photo+text-1.jpg`
-
-### Category
-Photo + Text
-
-### Best For
-- Awareness campaigns
-- Employee engagement
-- Corporate initiatives
-
-### Layout Characteristics
-- Single hero image
-- Supporting headline and body copy
-- Balanced content distribution
-
-### Panel Type
-Panel 1: Split Composition
-
----
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/social-ads/photo-led/photo%2Btext-1.jpg)
+- **Category:** Photo + Text
+- **Format or Dimensions:** 1:1 social ad
+- **Best For:**
+  - Awareness campaigns
+  - Employee engagement
+  - Corporate initiatives
+- **Composition Characteristics:**
+  - Single hero image
+  - Supporting headline and body copy
+  - Balanced content distribution
+  - Panel 1: Split Composition
 
 ## Social Layout C
 
-### Asset
-`/social-ads/photo-led/photo+text-2.jpg`
-
-### Category
-Photo + Text
-
-### Best For
-- Leadership communications
-- Program highlights
-- Internal campaigns
-
-### Layout Characteristics
-- Alternate image placement
-- Message-led storytelling
-
-### Panel Type
-Panel 1: Split Composition
-
----
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/social-ads/photo-led/photo%2Btext-2.jpg)
+- **Category:** Photo + Text
+- **Format or Dimensions:** 1:1 social ad
+- **Best For:**
+  - Leadership communications
+  - Program highlights
+  - Internal campaigns
+- **Composition Characteristics:**
+  - Alternate image placement
+  - Message-led storytelling
+  - Panel 1: Split Composition
 
 ## Social Layout D
 
-### Asset
-`/social-ads/text-only/text-only+decoration-pattern-on-background.jpg`
-
-### Category
-Text-Only
-
-### Best For
-- Quotes
-- Statistics
-- Awareness messages
-- Short announcements
-
-### Layout Characteristics
-- No photography required
-- Decorative Mosaic background pattern
-- Copy-focused treatment
-
-### Panel Type
-Panel 3: Text Heavy
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/social-ads/text-only/text-only%2Bdecoration-pattern-on-background.jpg)
+- **Category:** Text-Only
+- **Format or Dimensions:** 1:1 social ad
+- **Best For:**
+  - Quotes
+  - Statistics
+  - Awareness messages
+  - Short announcements
+- **Composition Characteristics:**
+  - No photography required
+  - Decorative Mosaic background pattern
+  - Copy-focused treatment
+  - Panel 3: Text Heavy
 
 ---
 
-# Viva Engage References
-
-## Cybersecurity Campaign Example
-
-### Asset
-`/viva-engage/engage-cybersecurity.jpg`
-
-### Category
-Awareness Campaign
-
-### Best For
-- Cybersecurity messaging
-- Training reminders
-- Risk-awareness content
-
-### Communication Style
-Educational and action-oriented
-
----
+# Viva Engage — 1:1
 
 ## Employee Information Network Example
 
-### Asset
-`/viva-engage/engage-EIN-post-1x1.jpg`
-
-### Category
-General Internal Communications
-
-### Best For
-- News updates
-- Employee programs
-- Announcements
-- Benefits information
-
-### Communication Style
-Informational and engaging
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/viva-engage/engage-EIN-post-1x1.jpg)
+- **Category:** General Internal Communications
+- **Format or Dimensions:** 1:1
+- **Best For:**
+  - News updates
+  - Employee programs
+  - Announcements
+  - Benefits information
+- **Composition Characteristics:**
+  - Informational communication style
+  - Engaging presentation
 
 ---
 
-## Wellness Campaign Example
+# Viva Engage — 16:9
 
-### Asset
-`/viva-engage/engage-livewellworkwell-diagram.jpg`
-
-### Category
-Infographic
-
-### Best For
-- Benefits communication
-- Wellness programs
-- Employee education
-
-### Communication Style
-Educational and visual-first
+No references in the current catalog have a confirmed 16:9 format.
 
 ---
 
-# Print References
+# Print — Portrait
 
-## Career Flyer
-
-### Asset
-`/print/career-flyer.pdf`
-
-### Category
-Recruitment
-
-### Best For
-- Career fairs
-- Hiring campaigns
-- Talent acquisition
-
-### Design Style
-Photo-led recruitment communication
+No general print references in the current catalog have a confirmed portrait orientation.
 
 ---
 
-## Community Investment Advertisement
+# Print — Landscape
 
-### Asset
-`/print/community-investment-ad.pdf`
-
-### Category
-Corporate Responsibility
-
-### Best For
-- ESG reporting
-- Community stories
-- Foundation initiatives
-
-### Design Style
-Mission-focused storytelling
+No references in the current catalog have a confirmed landscape orientation.
 
 ---
 
-## Mission Advertisement
-
-### Asset
-`/print/photo-led-mission-ad.pdf`
-
-### Category
-Corporate Brand
-
-### Best For
-- Values communication
-- Corporate storytelling
-- Mission awareness campaigns
-
-### Design Style
-Large-format photography with concise messaging
-
----
-
-# Event Promotion References
+# Event Promotion
 
 ## Webinar Print Ad
 
-### Asset
-`/webinar-posters/4x6-print-ad.pdf`
-
-### Category
-Event Promotion
-
-### Best For
-- Training promotion
-- Webinar announcements
-- Educational events
-
-### Design Style
-Compact event-focused communication
-
----
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/webinar-posters/4x6-print-ad.pdf)
+- **Category:** Event Promotion
+- **Format or Dimensions:** 4 × 6
+- **Best For:**
+  - Training promotion
+  - Webinar announcements
+  - Educational events
+- **Composition Characteristics:**
+  - Compact event-focused communication
 
 ## Cybersecurity Webinar Poster
 
-### Asset
-`/webinar-posters/cybersecurity webinar poster.pdf`
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/webinar-posters/cybersecurity%20webinar%20poster.pdf)
+- **Category:** Event Poster
+- **Best For:**
+  - Awareness Month campaigns
+  - Training programs
+  - Enterprise communications
+- **Composition Characteristics:**
+  - Dense informational event layout
 
-### Category
-Event Poster
+---
 
-### Best For
-- Awareness Month campaigns
-- Training programs
-- Enterprise communications
+# Unclassified References
 
-### Design Style
-Dense informational event layout
+The references below do not have a confirmed aspect ratio, orientation, or print size in their filenames or existing catalog content.
+
+## Cybersecurity Campaign Example
+
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/viva-engage/engage-cybersecurity.jpg)
+- **Category:** Awareness Campaign
+- **Best For:**
+  - Cybersecurity messaging
+  - Training reminders
+  - Risk-awareness content
+- **Composition Characteristics:**
+  - Educational communication style
+  - Action-oriented communication style
+
+## Wellness Campaign Example
+
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/viva-engage/engage-livewellworkwell-diagram.jpg)
+- **Category:** Infographic
+- **Best For:**
+  - Benefits communication
+  - Wellness programs
+  - Employee education
+- **Composition Characteristics:**
+  - Educational communication style
+  - Visual-first presentation
+
+## Career Flyer
+
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/print/career-ition Characteristics:**
+  - Mission-focused storytelling
+
+## Mission Advertisement
+
+- **Direct Reference:** [Open reference](https://raw.githubusercontent.com/ramonazo2/MOS-designer-skill/main/)
+- **Category:** Corporate Brand
+- **Best For:**
+  - Values communication
+  - Corporate storytelling
+  - Mission awareness campaigns
+- **Composition Characteristics:**
+  - Large-format photography
+  - Concise messaging
 
 ---
 
 # Asset Selection Logic
 
-Use the following decision framework:
-
-| Situation | Recommended Asset Type |
-|------------|-----------------------|
-| Heavy text, little imagery | Text-Only Layout |
+| Situation | Recommended Reference Type |
+|---|---|
+| Heavy text with little imagery | Text-Only Layout |
 | Employee spotlight | Photo-Led Layout |
 | Event promotion | Webinar Poster or Print Ad |
-| Awareness campaign | Viva Engage Examples |
-| Statistics or metrics | Diagram / Infographic Layout |
+| Awareness campaign | Viva Engage Example |
+| Statistics or metrics | Diagram or Infographic Layout |
 | Recruitment | Career Flyer |
-| ESG or Community Story | Community Investment Ad |
-| Mission or Values | Mission Advertisement |
+| ESG or community story | Community Investment Advertisement |
+| Mission or values communication | Mission Advertisement |
 
 ---
 
-# Agent Instructions
+# Catalog Retrieval Rules
 
-When a request is received:
-
-1. Classify the communication type.
-2. Match the request to the closest approved asset.
-3. Recommend existing examples before proposing a new layout.
-4. Follow Mosaic Brand Guidelines at all times.
-5. Apply Open Sans typography only.
-6. Include the Mosaic Logo Tab on all final concepts.
-7. Follow approved Mosaic color styles.
-8. Favor reusing proven layouts over inventing new compositions.
-9. Cite the reference asset used when generating recommendations.
+1. Select the section matching the requested channel and format.
+2. Open at least one direct reference before choosing a composition.
+3. Prefer references matching the requested aspect ratio, content density, and communication type.
+4. Use references for composition guidance only.
+5. Use the selected Mosaic Brand Kit and Mosaic Brand Foundation for logos, colors, typography, imagery, and identity decisions.
+6. Cite the reference name and direct link used.
+7. If a required link cannot be opened, report that rather than claiming it was reviewed.
 
 ---
 
